@@ -1,31 +1,35 @@
-<h1 align="center">Welcome to my GitHub 👋</h1>
+<h1 align="center">Welcome to my Github👋</h1>
 
 ## Nymrinae
+<p align="justify">Frontend Developer based in Paris. </p>
 
-```ts
-const me: Nymrinae = {
-  title: 'Frontend Developer',
-  location: 'Paris',
-  socialNetworks: {
-    github: 'Nymrinae',
-    twitter: 'Nymrinae'
-  }
-}
-```
-### Languages
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="64" height="64" style="margin-right: 24px"></code>
-<code><img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width="64" height="64"></code>
+## Technical Stack
 
+<h3 align="center"> Languages and frameworks </h3>
+<p align="center" style="margin-top: 24px">
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vuejs%20-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/nuxtjs%20-%2300DC82.svg?&style=for-the-badge&logo=nuxt.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/nodejs%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=black"/>
+</p>
 
-### Frameworks
-<code><img src="https://www.technsmile.com/wp-content/uploads/2018/11/nodejs-300.png" width="64" height="64" style="margin-right: 24px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="64" height="64" style="margin-right: 24px"></code>
-<code><img src="https://www.apollo-formation.com/wp-content/uploads/react-native-logo-1-216x250.png" width="64" height="64"></code>
+<h3 align="center"> Librairies </h3>
+<p align="center" style="margin-top: 24px">
+  <img src="https://img.shields.io/badge/bootstrap (vue)%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss%20-%2338BDF8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vuetify%20-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
+</p>
 
-### UI Frameworks/Libraries
-<code><img src="https://avatars0.githubusercontent.com/u/22965283?s=280&v=4" width="64" height="64" style="margin-right: 24px"></code>
-<code><img src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" width="64" height="64" style="margin-right: 24px"></code>
-<code><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="64" height="64"></code>
+<h3 align="center"> Databases </h3>
+<p align="center" style="margin-top: 24px">
+  <img src="https://img.shields.io/badge/postgresql%20-%23323330.svg?&style=for-the-badge&logo=postgresql&logoColor=%green"/>
+  <img src="https://img.shields.io/badge/mongoDB%20-%23323330.svg?&style=for-the-badge&logo=mongodb&logoColor=%green"/>
+</p>
 
-
-* 📫 Contact me on [Twitter](https://twitter.com/Nymrinae)
+<h3 align="center"> Tools </h3>
+<p align="center" style="margin-top: 24px">
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gitlab%20-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
